@@ -1,0 +1,141 @@
+input {
+  padding: 12px;
+    
+}
+
+.pla1 {
+    margin-left: 1400px;
+    float: left;
+    text-align: inherit;
+    position: fixed;
+    }
+
+
+
+button {
+    margin-bottom: 5px;
+   
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 500px;
+    
+}
+
+*{
+    font-family: Segoe UI;
+    text-rendering: optimizeLegibility;
+   
+   }
+h2 {
+    margin-left: 1022px;
+}
+
+
+
+#btn {
+    margin-left: 1800px;
+    padding: 15px;
+    background: white;
+    border-radius: 100px;
+    border-color: #1da1f2;
+    border: 1px solid #1da1f2;
+    font-weight: bold;
+    color: #1da1f2;
+    position: fixed;
+    
+   }
+
+#btn1 {
+    margin-left: 1000px;
+    background:#1da1f2 ;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #1da1f2;
+    border-radius: 400px;
+    padding-right: 150px;
+    padding-left: 150px;
+    line-height: 2;
+}
+#btn2 {
+    margin-left: 1000px;
+    background:white;
+    color: #1da1f2;
+    font-weight: bold;
+    border: 1px solid #1da1f2;
+    border-radius: 400px;
+    padding-right: 150px;
+    padding-left: 150px;
+    line-height: 2;
+    margin-top: 10px;
+}
+
+#pass {
+    color: gainsboro;
+    text-decoration: none;
+    margin-left: 1650px;
+   line-height: 8;
+    position: fixed;
+    
+}
+
+ul {
+    list-style-type: none;
+   list-style-position: inside;
+  margin-left: 500px;
+    font-size: 13px;
+    color: gray;
+    margin-top: 20px;
+}
+
+li {
+    text-align: inherit;
+    float: left;
+    font-weight: 100;
+    font-size: 36px
+    position: fixed;
+    cursor: pointer;
+    
+    
+   }
+
+
+
+.imgbig {
+    margin-bottom: 900px;
+}
+
+.imgg {
+    margin-left: 1000px;
+    margin-top: 100px
+}
+
+
+
+
+.dd {
+    
+}
+
+.im {
+    position: fixed;
+}
+
+.fod {
+    color: gainsboro;
+    line-height: 75;
+    padding: 10px;
+    position: fixed;
+    }
+.pla2 {
+    margin-left: 1600px;
+    float: left;
+    text-align: inherit;
+    position: fixed;
+    }
+
+footer {
+    
+}
